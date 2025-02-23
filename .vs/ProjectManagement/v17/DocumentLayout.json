@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|c:\\users\\iz\\source\\repos\\projectmanagement\\projectmanagementlibrary\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|solutionrelative:projectmanagementlibrary\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DD79D9-ADCE-4A1A-84BB-2E44ADC4B6EA}|ProjectManagementApp\\ProjectManagementApp.csproj|c:\\users\\iz\\source\\repos\\projectmanagement\\projectmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DD79D9-ADCE-4A1A-84BB-2E44ADC4B6EA}|ProjectManagementApp\\ProjectManagementApp.csproj|solutionrelative:projectmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|c:\\users\\iz\\source\\repos\\projectmanagement\\projectmanagementlibrary\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|solutionrelative:projectmanagementlibrary\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|c:\\users\\iz\\source\\repos\\projectmanagement\\projectmanagementlibrary\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|solutionrelative:projectmanagementlibrary\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|c:\\users\\iz\\source\\repos\\projectmanagement\\projectmanagementlibrary\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|solutionrelative:projectmanagementlibrary\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|c:\\users\\iz\\source\\repos\\projectmanagement\\projectmanagementlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|solutionrelative:projectmanagementlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|c:\\users\\iz\\source\\repos\\projectmanagement\\projectmanagementlibrary\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74691E45-CBBC-452C-8875-06185E684EE3}|ProjectManagementLibrary\\ProjectManagementLibrary.csproj|solutionrelative:projectmanagementlibrary\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementApp\\Program.cs",
+              "RelativeToolTip": "ProjectManagementApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:46:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "ProjectManagementLibrary\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Services\\ProjectService.cs",
+              "RelativeToolTip": "ProjectManagementLibrary\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:07:27.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementLibrary\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "ProjectManagementLibrary\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:37:35.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Repositories\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "ProjectManagementLibrary\\Repositories\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Repositories\\IProjectRepository.cs",
+              "RelativeToolTip": "ProjectManagementLibrary\\Repositories\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:25:06.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectManagementLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjectManagementLibrary\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:13:18.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ProjectManagementLibrary\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Models\\Customer.cs",
+              "RelativeToolTip": "ProjectManagementLibrary\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:11:17.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectManagementLibrary\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\iz\\source\\repos\\ProjectManagement\\ProjectManagementLibrary\\Models\\Project.cs",
+              "RelativeToolTip": "ProjectManagementLibrary\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:08:33.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

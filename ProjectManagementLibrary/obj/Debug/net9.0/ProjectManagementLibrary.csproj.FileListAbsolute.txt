@@ -1,0 +1,14 @@
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\bin\Debug\net9.0\ProjectManagementLibrary.deps.json
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\bin\Debug\net9.0\ProjectManagementLibrary.runtimeconfig.json
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\bin\Debug\net9.0\ProjectManagementLibrary.dll
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\bin\Debug\net9.0\ProjectManagementLibrary.pdb
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.AssemblyInfo.cs
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.dll
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\refint\ProjectManagementLibrary.dll
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.pdb
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ProjectManagementLibrary.genruntimeconfig.cache
+C:\Users\iz\source\repos\ProjectManagement\ProjectManagementLibrary\obj\Debug\net9.0\ref\ProjectManagementLibrary.dll
